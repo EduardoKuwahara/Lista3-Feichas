@@ -10,9 +10,10 @@ Projeto com 4 apps Flutter e 1 backend Node.js.
 ## 1) Rodar backend
 
 Abra um terminal na pasta backend e execute:
-
+```
 npm install
 npm run start
+```
 
 API padrao: http://localhost:3000
 
@@ -20,28 +21,9 @@ API padrao: http://localhost:3000
 
 Abra outro terminal e rode o app desejado:
 
-### Perfil de usuario
-
-cd perfilusuario
+```
+cd <nomedoapp>
 flutter pub get
-flutter run
-
-### Gerenciador de despesas
-
-cd gerenciadordespesas
-flutter pub get
-flutter run
-
-### Registro de frequencia
-
-cd registrofrequencia
-flutter pub get
-flutter run
-
-### Controle de estoque
-
-cd controleestoque
-flutter pub get
-flutter run
-
+flutter run -d windowns
+```
 

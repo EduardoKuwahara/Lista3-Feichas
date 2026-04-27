@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1777247484821,
+    "description": "Uber para o Mercado",
+    "amount": 15,
+    "createdAt": "2026-04-26T23:51:24.821Z"
+  },
+  {
+    "id": 1777247520644,
+    "description": "Pizza Congelada",
+    "amount": 25,
+    "createdAt": "2026-04-26T23:52:00.644Z"
+  }
+]
